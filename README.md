@@ -1,0 +1,2 @@
+# CLASSIFICATION-OF-DIABETIC-RETINOPATHY-DISEASE-LEVELS-BY-EXTRACTING-TOPOLOGICAL-FEATURES-USING-GNN
+A novel approach to classify Diabetic Retinopathy (DR) severity by transforming retinal images into graph structures, extracting topological features (e.g., persistent homology), and using Graph Neural Networks (GNNs) for classification. Skills: Topological Data Analysis, GNNs, Python, Deep Learning, Image Processing, Medical Imaging.
